@@ -1,15 +1,14 @@
 import {
-	Controls,
-	MOUSE,
-	Quaternion,
-	Spherical,
-	TOUCH,
-	Vector2,
-	Vector3,
-	Plane,
-	Ray,
-	MathUtils
-} from 'three';
+  Quaternion,
+  Spherical,
+  Vector2,
+  Vector3,
+  Plane,
+  Ray,
+  MathUtils,
+  MOUSE,
+  TOUCH
+} from './three.module.js';
 
 /**
  * Fires when the camera has been transformed by the controls.

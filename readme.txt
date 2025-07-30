@@ -9,7 +9,8 @@ GLTFLoader
 OBJLOader
 OrbitControls
 
-Kept the old KeyboardState
+Regenerated KeyboardState to work with ES modules
+Edited OrbitControls to import from relative path ./three.module.js
 
 
 Buffer geometry not available in three.module.min.js?
