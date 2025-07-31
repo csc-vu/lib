@@ -1,4 +1,8 @@
-Downloaded on August 2025 from official site threejs.org:
+Downloaded on August 2025 from https://cdnjs.com/libraries/three.js/r128:
+
+https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.js
+
+
 three.core.js 
 three.core.min.js 
 three.module.js 
