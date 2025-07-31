@@ -9,8 +9,6 @@ https://github.com/mrdoob/three.js/tree/r128/examples/jsm/loaders/GLTFLoader.js
 https://github.com/mrdoob/three.js/tree/r128/examples/jsm/loaders/OBJLoader.js
 
 Regenerated KeyboardState to work with ES modules
+
 Edited OrbitControls to import from relative path ./three.module.js
 
-
-Buffer geometry not available in three.module.min.js?
-Same for Edges Geometry
