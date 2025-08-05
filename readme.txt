@@ -10,9 +10,6 @@ Downloaded from the mirror github site:
 	https://github.com/mrdoob/three.js/tree/r128/examples/jsm/loaders/GLTFLoader.js
 	https://github.com/mrdoob/three.js/tree/r128/examples/jsm/loaders/OBJLoader.js
 
-Downloaded
-https://cdn.jsdelivr.net/npm/three@0.128.0/examples/jsm/loaders/GLTFLoader.js
-
 Regenerated KeyboardState to work with ES modules
 
 Edited to import from relative path ./three.module.js
