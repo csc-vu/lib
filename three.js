@@ -2,6 +2,7 @@
  * @license
  * Copyright 2010-2021 Three.js Authors
  * SPDX-License-Identifier: MIT
+ * Source: https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.js
  */
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :

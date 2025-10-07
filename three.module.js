@@ -2,6 +2,7 @@
  * @license
  * Copyright 2010-2021 Three.js Authors
  * SPDX-License-Identifier: MIT
+ * Source: https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.js
  */
 const REVISION = '128';
 const MOUSE = { LEFT: 0, MIDDLE: 1, RIGHT: 2, ROTATE: 0, DOLLY: 1, PAN: 2 };

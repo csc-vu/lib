@@ -1,3 +1,6 @@
+/**
+ * Source: https://github.com/mrdoob/three.js/tree/r128/examples/jsm/controls/OrbitControls.js
+ */
 import {
   EventDispatcher,
   MOUSE,
