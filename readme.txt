@@ -9,6 +9,7 @@ Downloaded from the mirror github site:
 	https://github.com/mrdoob/three.js/tree/r128/examples/jsm/controls/OrbitControls.js
 	https://github.com/mrdoob/three.js/tree/r128/examples/jsm/loaders/GLTFLoader.js
 	https://github.com/mrdoob/three.js/tree/r128/examples/jsm/loaders/OBJLoader.js
+	https://github.com/mrdoob/three.js/tree/r128/examples/jsm/controls/TransformControls.js
 
 Regenerated KeyboardState to work with ES modules
 
