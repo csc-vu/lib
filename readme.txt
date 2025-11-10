@@ -16,4 +16,4 @@ Regenerated KeyboardState to work with ES modules
 Edited to import from relative path ./three.module.js
 	OrbitControls.js
 	GLTFLoader.js
-
+	TransformControls.js
